@@ -10,13 +10,13 @@ This project explores the key factors that influence national happiness using da
 
 ## 📁 Project Structure
 
-├── 6.1_Sourcing_Open_Data/
-├── 6.2_Exploring_Relationships/
-├── 6.3_Geographical_Visualizations/
-├── 6.4_Regression/
-├── 6.5_Clustering/
-├── 6.6_Time_Series/
-├── data/
+- [6.1_Sourcing_Open_Data](./6.1_Sourcing_Open_Data/)
+- [6.2_Exploring_Relationships](./6.2_Exploring_Relationships/)
+- [6.3_Geographical_Visualizations](./6.3_Geographical_Visualizations/)
+- [6.4_Regression](./6.4_Regression/)
+- [6.5_Clustering](./6.5_Clustering/)
+- [6.6_Time_Series](./6.6_Time_Series/)
+- [data](./data/)
 
 ## 📊 Data Sources
 - **World Happiness Report 2024**  
