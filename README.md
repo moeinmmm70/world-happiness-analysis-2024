@@ -17,6 +17,7 @@ This project explores the key factors that influence national happiness using da
 - [6.5_Clustering](./6.5_Clustering/)
 - [6.6_Time_Series](./6.6_Time_Series/)
 - [data](./data/)
+- [README.md](./README.md)
 
 ## 📊 Data Sources
 - **World Happiness Report 2024**  
